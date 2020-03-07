@@ -1,0 +1,80 @@
+restaurant_id,name,area,restaurant_type,rating,votes
+1,Masala Mandi,Sarjapur Road,"['Casual', 'Dining']",4.6,1103
+2,Big Pitcher,Sarjapur Road,['Microbrewery'],4.5,209
+3,The Big Barbeque,Electronic City,"['Casual', 'Dining']",4.8,5319
+4,BLR Brewing Co.,Electronic City,['Microbrewery'],4.4,462
+5,Dr. Sheesha 24 Hours Gastro Pub,"The Sahar Pavilion, Electronic City",['Pub'],4.0,230
+6,Byg Brewski Brewing Company,Sarjapur Road,['Microbrewery'],4.9,23006
+7,URU Brewpark,JP Nagar,['Microbrewery'],4.3,1623
+8,Hoot,Sarjapur Road,['Microbrewery'],4.5,11407
+9,Brahma Brews,JP Nagar,['Microbrewery'],4.9,3996
+10,The Fisherman's Wharf,Sarjapur Road,"['Casual', 'Dining']",4.3,4518
+11,AB's - Absolute Barbecues,BTM,"['Casual', 'Dining']",4.8,7749
+12,Shivaji Military Hotel,Jayanagar,"['Quick', 'Bites']",4.2,3406
+14,The Globe Grub,BTM,"['Casual', 'Dining']",4.7,2421
+15,Stories - The Brew Chapter,BTM,['Microbrewery'],4.8,3822
+16,Meghana Foods,Jayanagar,"['Casual', 'Dining']",4.5,5210
+17,The Pump House,JP Nagar,['Microbrewery'],4.5,2092
+18,Sarjapur Social,Sarjapur Road,['Lounge'],4.5,2580
+19,Barbeque Nation,JP Nagar,"['Casual', 'Dining']",4.9,5678
+20,TBC Sky Lounge,HSR,['Bar'],4.9,15726
+21,46 Ounces Brewgarden,Electronic City,['Microbrewery'],4.7,1695
+22,Xochi Bar And Kitchen,Bellandur,['Bar'],4.6,582
+23,Aurum Brew Works,Sarjapur Road,['Microbrewery'],4.5,1939
+24,Deja Vu Buffet Bar,JP Nagar,"['Casual', 'Dining']",4.6,3945
+25,Mavalli Tiffin Room (MTR),Basavanagudi,"['Quick', 'Bites']",4.4,3195
+26,Vapour Brewpub and Diner,Sarjapur Road,['Microbrewery'],4.6,4772
+27,Grasshopper,Bannerghatta Road,"['Fine', 'Dining']",4.3,785
+28,eat.fit,HSR,,4.2,1714
+29,Gilly's Restobar,Electronic City,['Pub'],4.6,2947
+30,Hakuna Matata,JP Nagar,"['Casual', 'Dining']",4.4,3175
+31,Fire Station,Electronic City,['Pub'],4.7,2232
+32,House Of Commons,HSR,['Bar'],4.8,5430
+33,Levitate Brewery and Kitchen,JP Nagar,['Microbrewery'],4.6,2164
+34,Stegi - Modern Indian,Jayanagar,"['Casual', 'Dining']",4.4,830
+35,Al Daaz,HSR,"['Casual', 'Dining']",4.3,1356
+36,Gufha - The President Hotel,"The President Hotel, Jayanagar","['Casual', 'Dining']",4.1,2006
+37,Sattvam,JP Nagar,"['Casual', 'Dining']",4.2,648
+38,What the Ale?!,Electronic City,['Microbrewery'],4.4,464
+39,Taaza Thindi,Jayanagar,"['Quick', 'Bites']",4.9,4739
+40,Whattay Kitchen and Brew,Kanakapura Road,['Microbrewery'],4.3,306
+41,The Barbecue Kingdom,Electronic City,"['Casual', 'Dining']",4.5,447
+42,1522 - The Pub,JP Nagar,['Pub'],4.5,261
+43,Rural Blues,Sarjapur Road,"['Casual', 'Dining']",4.4,2027
+44,Subz,Jayanagar,"['Casual', 'Dining']",4.2,2140
+45,By The Peepal,JP Nagar,['Microbrewery'],4.2,539
+46,Fat Owl,JP Nagar,['Bar'],4.4,495
+47,Tipsy Bull - The Bar Exchange,JP Nagar,['Bar'],4.7,1846
+48,Stories,JP Nagar,['Pub'],4.6,4033
+49,Vidyarthi Bhavan,Basavanagudi,"['Quick', 'Bites']",4.3,4880
+50,Chulha Chauki Da Dhaba,JP Nagar,"['Casual', 'Dining']",4.5,3570
+51,Empire Restaurant,Jayanagar,"['Casual', 'Dining']",4.6,6810
+52,E - City Combos,Electronic City,,3.5,14
+53,La Casa Brewery And Kitchen,Sarjapur Road,['Microbrewery'],4.5,2887
+54,Onesta,HSR,"['Casual', 'Dining']",4.4,4748
+55,Habit@,Bellandur,['Bar'],4.4,349
+56,OPUS Club,"OPUS, Sarjapur Road",['Pub'],4.3,2403
+57,Shift,HSR,['Lounge'],4.1,2449
+58,Spice It - Ibis Bengaluru,"Ibis Bengaluru, Marathahalli","['Casual', 'Dining']",4.2,728
+59,Broadway - The Gourmet Theatre,HSR,"['Casual', 'Dining']",4.3,1431
+60,Express by ABs,BTM,,3.9,40
+61,Brother Barley Brewing Company,HSR,['Microbrewery'],4.3,518
+62,The Hidden Home,Sarjapur Road,"['Casual', 'Dining']",4.1,1628
+63,Go Native,Jayanagar,"['Casual', 'Dining']",4.4,1575
+64,Chili's American Grill & Bar,Bellandur,"['Casual', 'Dining']",4.6,2307
+65,Waffle Cart,BTM,"['Dessert', 'Parlor']",3.8,113
+66,The Punjabi Rasoi,Sarjapur Road,"['Casual', 'Dining']",4.2,642
+67,Village - The Soul of India,"Bangalore Central, JP Nagar","['Casual', 'Dining']",4.0,2539
+68,Millennials,JP Nagar,['Bar'],4.4,225
+69,Kesariya,JP Nagar,"['Casual', 'Dining']",4.2,1376
+70,Brahmin's Coffee Bar,Basavanagudi,"['Quick', 'Bites']",4.7,2931
+71,Ranganna Military Hotel,Jayanagar,"['Quick', 'Bites']",4.2,1024
+72,Indigo X II P,HSR,['Pub'],4.3,997
+73,Basil Bistro,HSR,"['Casual', 'Dining']",4.5,556
+74,Tea Villa Cafe,Jayanagar,['Café'],4.3,2138
+75,Crumb Together,JP Nagar,"['Casual', 'Dining']",4.2,904
+76,LIT Gastro Pub,Jayanagar,['Pub'],3.9,588
+77,Hammered,HSR,['Bar'],4.4,2136
+78,Nandhini Paradise,JP Nagar,"['Casual', 'Dining']",3.9,1189
+79,Xtreme Sports Bar,Sarjapur Road,['Bar'],4.2,1214
+80,Pepe's Pizza,Bellandur,"['Casual', 'Dining']",4.2,511
